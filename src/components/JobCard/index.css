@@ -1,0 +1,93 @@
+.logo-location-title-container {
+  display: flex;
+  flex-direction: column;
+  background-color: #272727;
+  margin: 20px;
+  border-radius: 7px;
+}
+.rating-container {
+  display: flex;
+  flex-direction: row;
+}
+.location-container {
+  display: flex;
+  flex-direction: row;
+  margin-right: 30px;
+}
+.employeeType-container {
+  display: flex;
+  flex-direction: row;
+}
+.link-item {
+  text-decoration: none;
+}
+.logo-title-container {
+  display: flex;
+  flex-direction: row;
+  padding: 20px;
+}
+.companyLogoUrl {
+  height: 80px;
+  width: 80px;
+  margin-right: 10px;
+}
+.location-package-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding-left: 20px;
+}
+.location-type-container {
+  display: flex;
+  flex-direction: row;
+}
+.rating-icon {
+  color: #fbbf24;
+  margin-top: 3px;
+}
+.line {
+  color: #7e858e;
+  width: 98%;
+}
+.title {
+  color: #ffffff;
+  font-size: 20px;
+}
+.rating {
+  color: #ffffff;
+  margin: 0px;
+  margin-left: 10px;
+}
+.location-icon {
+  color: #ffffff;
+  margin-top: 3px;
+}
+.location {
+  color: #ffffff;
+  margin: 0px;
+  margin-left: 10px;
+}
+.brief-case-icon {
+  color: #ffffff;
+  margin-top: 3px;
+}
+.employmentsType {
+  color: #ffffff;
+  margin: 0px;
+  margin-left: 10px;
+}
+.packagePerAnnum {
+  color: #ffffff;
+  margin-right: 20px;
+}
+.heading {
+  color: #f1f5f9;
+  font-size: 20px;
+  margin-left: 10px;
+}
+.description {
+  color: #f1f5f9;
+  margin-left: 12px;
+  margin-right: 12px;
+  font-size: 14px;
+}
